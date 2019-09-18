@@ -1,0 +1,11 @@
+server:
+  port: 8078
+spring:
+  application:
+    name: feignServce
+  devtools:
+    restart:
+      enabled: true  #设置开启热部署
+
+      
+

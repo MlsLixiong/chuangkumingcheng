@@ -1,0 +1,5 @@
+com\lixiong\demo\service\FeignConfig.class
+com\lixiong\demo\service\EurekaClientFeign.class
+com\lixiong\feignServce.class
+com\lixiong\demo\config\SwaggerConfig.class
+com\lixiong\demo\controller\ControllerTest.class
